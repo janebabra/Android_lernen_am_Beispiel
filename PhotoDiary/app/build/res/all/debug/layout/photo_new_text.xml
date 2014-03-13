@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <ScrollView
+    android:id="@+id/scrllvwNo1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1">
+
+
+
+        <TableRow>
+            <TextView
+                android:text="@string/Titel"
+                android:textSize="20sp"
+                />
+            <EditText
+                    android:id="@+id/txt_Titel"
+                    />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="@string/Wo"
+                android:textSize="20sp"
+               />
+           <EditText
+                android:id="@+id/txt_wo"
+                   />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="@string/Wer"
+                android:textSize="20sp"
+                />
+            <EditText
+                    android:id="@+id/txt_wer"
+                    />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="@string/Was"
+                android:textSize="20sp"
+                android:layout_span="2"
+                />
+        </TableRow>
+        <TableRow>
+            <EditText
+                android:id="@+id/txt_was"
+                android:layout_span="2"
+                />
+        </TableRow>
+        <TableRow>
+            <Button
+            android:layout_width ="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Speichern"
+            android:textSize="20sp"
+            android:onClick="onClickNew"
+            android:layout_span="2"
+                    />
+
+        </TableRow>
+    </TableLayout>
+
+
+    </ScrollView>
+</LinearLayout>
+
+
+
+
+
+
+<!-- From: file:/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/layout/photo_new_text.xml -->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="Beenden">Close</string>
+    <string name="Bildgespeichert">Photo has been saved</string>
+    <string name="Delete">Delete</string>
+    <string name="Info">Info</string>
+    <string name="Ja">Yes</string>
+    <string name="Nein">No</string>
+    <string name="Speichern">Save</string>
+    <string name="Titel">Title</string>
+    <string name="Wann">When:</string>
+    <string name="Was">What: \n \n</string>
+    <string name="Wer">Who:</string>
+    <string name="Wo">Where:</string>
+    <string name="app_name">Photo Diary</string>
+    <string name="loeschen">delete?</string>
+    <string name="neuesFoto">take a new picture</string>
+    <string name="newPhotoTextSize">15sp</string>
+    <!-- From: file:/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+</resources>

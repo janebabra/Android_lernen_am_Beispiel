@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"My Web App Application "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="baskervilles_text">    \"Sherlock Holmes – Der Hund der Baskervilles\"
+    \n Zusammenfassung der Geschichte
+
+    \n \n
+
+    Dr. Mortimer senkt seine Stimme fast zu einem Flüstern, als er Meisterdetektiv Sherlock
+    Holmes und seinem Freund und Assistenten Dr. John Watson von dem plötzlichen und
+    rätselhaften Tod von Sir Charles Baskerville erzählt. Sir Charles\’ Leiche habe keinerlei
+    Spuren von Gewaltanwendung erkennen lassen, aber sein Gesicht sei unglaublich
+    verzerrt gewesen, so dass in der Gegend das Gerücht umgeht, er wäre zu Tode
+    erschreckt worden. Denn auf der Baskerville-Familie lastet der Fluch einer schrecklichen
+    geisterhaften Hunde-Bestie, die vor mehreren Jahrhunderten den ruchlosen Hugo
+    Baskerville getötet hat und seither seine Nachkommen heimsuchen und in ihr Verderben
+    hetzen soll.
+    Nun übernimmt Sir Henry, der letzte des Baskerville-Clans, das Erbe. Der Adelige kommt
+    ohne Vorahnung dessen, was ihn erwartet, in die Heimat seiner Ahnen. Sherlock Holmes\'
+    neuen Klient Dr. Mortimer, ein Freund der Baskervilles, treibt die Sorge, es könne Sir
+    Henry wie dem armen Sir Charles ergehen. Deshalb sucht der Arzt in London die Baker
+    Street Nr. 221b auf, wo der berühmte Meisterdetektiv auf einen Fall wie diesen nur
+    gewartet hat. Kurz darauf geschehen seltsame Dinge, Sir Henry wird offensichtlich
+    überwacht. Eine anonyme Warnung trifft ein, der Erbe solle sich vom Moor fernhalten,
+    zwei einzelne Schuhe werden ihm gestohlen – und zu guter letzt gibt sich ein düsterer
+    Verfolger als Sherlock Holmes aus.
+    Der Meisterdetektiv fühlt sich herausgefordert – und heckt einen raffinierten Plan aus. Er
+    gibt vor, dass wichtige Geschäfte ihn daran hindern, London zu verlassen. Sir Henry solle
+    aber auf jeden Fall sein Erbe in \"Baskerville Hall\“ antreten und zu seinem Schutz stelle
+    Sherlock ihm seinen besten Freund und Assistenten Dr. Watson zur Seite. Klammheimlich
+    reist Sherlock jedoch den Männern nach und versteckt sich im Grimpener Moor nahe des
+    Anwesens der Baskervilles, um dort ungestört ermitteln zu können. Sherlocks Tarnung ist
+    perfekt, und durch die täglichen Berichte seines Freundes Dr. Watson, der ihn (wie alle
+    anderen auch) weiterhin in London wähnt, ist er über die Geschehnisse in \"Baskerville
+    Hall\“ stets bestens im Bilde.
+    So erfährt Sherlock, dass Sir Henry Freundschaft mit dem Naturforscher Jim Stapleton
+    und dessen Schwester Beryl geschlossen hat. Die beiden wohnen in einem Haus am
+    Rande des Moors, in dem Sir Henry schon bald häufig zu Gast ist. Nicht ahnend, dass
+    Beryl in Wahrheit die Ehefrau von Jim Stapleton ist, verliebt sich der Adelige in sie.
+    Erfolglos versucht diese mehrfach, ihn zu seinem Schutz zur sofortigen Abreise zu
+    bewegen.
+    Langsam aber sicher bringt der geniale Meisterdetektiv Sherlock Holmes aus seinem
+    Versteck aus Licht ins Dunkel dieses mysteriösen Falls. Er findet heraus, dass hinter dem
+    grässlichen Tod des alten Sir Charles sowie den vielen unheimlichen Geschehnissen im
+    Moor nur einer stecken kann: Naturforscher Jim Stapleton. Dieser ist in Wahrheit auch
+    ein Baskerville und geht in der Tat über Leichen, um an sein Erbe zu gelangen. Mit Hilfe
+    eines riesigen, unheimlich mit Leuchtfarbe bemalten Killerhundes, den er im Moor
+    versteckt hält, hatte er den herzkranken Sir Charles in besagter Nacht schlichtweg zu
+    Tode erschreckt. Und Ähnliches hat der Bösewicht nun auch mit Sir Henry vor. Wird ihm
+    sein diabolischer Plan gelingen? Danato GmbH | www.danato.com | service@danato.com
+    Natürlich nicht! In gekonnter Manier zeigt Sherlock Holmes, wie Experten Verbrechern
+    das Handwerk legen!
+    Der Schurke Stapleton und seine Killerbestie segnen das Zeitliche – und der
+    vermeintliche Fluch der Baskervilles zählt ab sofort zu den Ammenmärchen.</string>
+    <string name="pizza">Pizza Recipes</string>
+    <string name="coffee">Coffee Recipes</string>
+    <string name="logo">Logo</string>
+    <string name="baskervilles">Der Hund der Baskervilles</string>
+    <string name="tasty">Tasty Recipes</string>
+    <string name="roundball">Roundball</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_new">wMainActivity</string>
+    <string name="title_activity_tasty">Tasty</string>
+
+</resources>

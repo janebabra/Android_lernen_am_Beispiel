@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values-sv/strings.xml -->
+    <eat-comment />
+
+    <string name="Beenden">Stäng</string>
+    <string name="Bildgespeichert">Foto har sparats</string>
+    <string name="Delete">Radera</string>
+    <string name="Info">Info</string>
+    <string name="Ja">Ja</string>
+    <string name="Nein">Nej</string>
+    <string name="Speichern">Spara</string>
+    <string name="Titel">Rubrik</string>
+    <string name="Wann">När:</string>
+    <string name="Was">Vad:</string>
+    <string name="Wer">Vem:</string>
+    <string name="Wo">Var:</string>
+    <string name="app_name">Fotodagbok 2012</string>
+    <string name="loeschen">radera?</string>
+    <string name="neuesFoto">ta en ny bild</string>
+    <string name="newPhotoTextSize">15sp</string>
+
+</resources>

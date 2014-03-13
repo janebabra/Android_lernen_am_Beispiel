@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wahr oder Falsch</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Wahr oder Falsch Geschichten</string>
+    <string name="description">Ich werde im Folgenden 3 Geschichten erzählen, von denen
+    einige Wahr und Andere falsch sind. Lese alle Geschichten und bestimme
+    welche Geschichte die Wahrheit erzählt und welche nicht. Am Ende werde ich
+    den waren Hintergrund zu jeder Geschichte liefern.
+    </string>
+    <string name="title_first_story">In Amerika liegen vier Millionen Videospiele begraben</string>
+    <string name="text_first_story">Beinahe jeder kennt den Film E.T. - Der Außerirdische.
+        Ein paar Monate nach dem Film erschien E.T the Extra-Terrestrial für die Atarie 2600.
+        Der Hersteller verkaufte angeblich so wenig Exemplare, dass die Viedeospiel-Industrie stark
+        beschädigt wurde. \n \n
+        Dem Regisseur Steven Spielberg gelang mit E.T. ein wahrer Geniestreich. Da lag die Vermutung
+        nahe, dass ein Spiel zu dem Film änlichen Erfolg hat. Doch die Entwickler bekamen
+        nur sechs Wochen Zeit, um das Projekt auf die Beine zu stellen. Grund dafür wahr das nahende
+        Weihnachtsgeschäft. \n \n
+        Insgesamt stellte Atari fünf Millionen Exemplare her, wovon der Hersteller nur eine
+        Million verkaufte. Dies lag neben der Qualität des Spiels auch daran, dass zu dieser Zeit
+        nur etwa zehn Millionen Atari 2600 im Umlauf waren. Somit hätte jeder zweite Konsolenbesitzer
+        eine Version des Spiels kaufen müssen. \n \n
+        Was mit den restlichen Modulen geschah, hört sich unglaublich an. Angeblich brachte Atari sie
+        im September 1983 auf die Mülldeponie der Kleinstadt Alamogordo, in New Mexico. Ein Bulldozer
+        demolierte die Spiele danach, sodass selbst die tapfersten Sammler keine Spur mehr finden sollten. \n \n
+
+        </string>
+
+    <string name="title_second_story">Das Spiel, das sich selbst löscht</string>
+    <string name="text_second_story">Angeblich erschienen im Jahre 1989 ein Spiel namens "Killswitch" für PC .
+        Besagtes Spiel löscht sich scheinbar kurz vorm Durchspielen selbst. \n \n
+        Zu Beginn wählen die Spieler zwischen zwei Charakteren. Es gibt den unsichtbaren,
+        feuerspuckenden Dämon Ghast und eine Frau namens Porto, die willkürlich ihre Größe ändert.
+        Durch die Unsichtbarkeit ist Ghast unmöglich zu Spielen, deswegen entscheiden sich alle Spieler für Porto.
+        Die Handlung spielt in einer verlassenen Kohlemine, aus der Porto entkommen will.
+        Indem sie durch die Gänge wandert,
+        erfährt sie immer mehr über vergangene Ereignisse.\n \n
+        Um die Produktion auf Maximum zu halten, schickte ein Kohle-Konzern Inspektoren.
+        Die stachen die Arbeiter mit Messern, sobald sie langsamer arbeiteten.
+        Durch die Verzweiflung der Männer erweckten Dämonen die Maschinen der Mine zum Leben.
+        Letzere hören erst auf zu morden, wenn alles und jeder erledigt ist. \n \n
+        Kurz bevor Porto die Erdoberfläche erreicht, wird der Bildschirm weiß und das Spiel löscht sich komplett.
+        Durch die limitierte Anzahl an Spielen (5000) waren also bald alle Exemplare zerstört.
+        Angeblich kaufte ein Japaner die letzte funktionsfähige Kopie.
+        Er wollte das Spiel durchspielen und seine Erlebnisse auf Video festhalten.
+        Allerdings ist niemals ein solches Video aufgetaucht. \n \n
+
+
+
+        </string>
+
+    <string name="title_third_story">Besitzt Nintendo Pornos und ein Liebeshotel?</string>
+    <string name="text_third_story">Diese Geschichte klingt abenteuerlich:
+        Angeblich besitzt Nintendo Vermarktungsrechte auf zwei Pornofilme.
+        Außerdem soll die Firma ein sogenanntes Liebeshotel betrieben haben.
+        Das ist ein Hotel, das ihr stundenweise mieten könnt. Wofür, dürfte klar sein. \n \n
+
+
+Ursprünglich lagen die Rechte an diesen Filmen bei der Produktionsfirma Midnight Video. Nintendo kaufte die Rechte an beiden Filmen auf, um deren weiteren Vertrieb aufzuhalten. Eine derartige Parodie auf eine der wichtigsten Marken der Firma hielt man damals wohl für schadhaft.
+    </string>
+    
+    <string name="truth_first_story">Die Geschichte ist wahr. \n
+        Man kann heute mit hoher Wahrscheinlichkeit sagen, dass die Geschichte stimmt.
+        Sogar die New York Times berichtete über das Ereignis. Atari hatte damals eine
+        Niederlassung in El Paso, das sich in der Nähe von Alamogordo befindet.
+        Um Lagerkosten zu sparen, verfrachtete der Hersteller kurzerhand alle gescheiterten
+        Produkte in die Wüste von New Mexico. Somit wurde viel Geld auf den Müll geworfen,
+        was ein Mitauslöser des Videospiel-Crashs im Jahre 1983 war.</string>
+
+    <string name="truth_second_story">Hinter dieser Geschichte steckt nicht mehr als... eine Geschichte!
+        Sowohl die Seite Invisible Games als auch Killswitch sind das Werk der
+        amerikanischen Autorin Catherynne Valente.</string>
+    
+    <string name="truth_third_story"> Die Geschichte mit dem Liebeshotel ist wahr.
+        In den 1960er Jahren, als Nintendo sein Geld hauptsächlich mit dem Vertrieb von Spielkarten verdiente,
+        versuchte der Präsident, sich in anderen Branchen zu etablieren.
+        Dazu gehörte neben einem Taxi-Unternehmen und dem Vertrieb von Instant-Reis auch ein Liebeshotel.
+        Heute ist das allerdings nicht mehr im Besitz von Nintendo.
+        Nintendos damaliger Präsident Hiroshi soll sein eigenes Liebeshotel damals übrigens
+        regelmäßig besucht haben.\n \n
+        Noch abenteuerlicher, aber trotzdem wahr: Nintendo hält Rechte auf zwei Pornos.
+        Im Jahr 1993 erschienen zwei Porno-Filme namens Super Hornio Brothers und Super Hornio Brothers 2
+        (zu deutsch etwa "Super Geilo Brüder").
+        Die Filme sind pornografische Parodien auf Nintendos Hüpfspiel Super Mario Bros.. \n \n
+        Ursprünglich lagen die Rechte an diesen Filmen bei der Produktionsfirma Midnight Video.
+        Nintendo kaufte die Rechte an beiden Filmen auf, um deren weiteren Vertrieb aufzuhalten.
+        Eine derartige Parodie auf eine der wichtigsten Marken der Firma hielt man damals wohl für schadhaft.
+
+    </string>
+
+    <string name="alamogordo">Mülldeponie von Alamogordo</string>
+    <string name="porto">Spiel dass sich selbst löscht</string>
+    <string name="nintendo">Nintendo bestizt ein Liebeshotel und Pornos</string>
+    
+    <string name="truefalse">Um nun zu sehen. ob ihr richtig geraten habt, einfach das Telefon ins
+                             Querformat stellen und die spannende Wahrheit lesen.</string>
+
+</resources>

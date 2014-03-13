@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"My Survey Application "</string>
+    <string name="hello_world">Survey Form</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="duck">duck</string>
+    <string name="your_name">Your name</string>
+    <string name="your_email_address">Your email address</string>
+    <string name="your_phone">Your phone number</string>
+    <string name="comments_and_feedback">Comments and feedback</string>
+    <string name="submit">Submit</string>
+
+
+</resources>

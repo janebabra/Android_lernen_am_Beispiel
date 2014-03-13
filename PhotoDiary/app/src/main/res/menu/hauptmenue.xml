@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+       android:id="@+id/opt_about"
+        android:title="@string/Info"
+        android:icon="@android:drawable/ic_menu_help"
+        />
+
+     <item
+       android:id="@+id/opt_exit"
+        android:title="@string/Beenden"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        />
+
+
+</menu>

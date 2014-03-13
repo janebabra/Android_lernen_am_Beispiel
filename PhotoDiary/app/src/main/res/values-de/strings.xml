@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fototagebuch</string>
+    <string name="newPhotoTextSize">15sp</string>
+    <string name="Titel">Titel</string>
+    <string name="neuesFoto">neues Foto knipsen</string>
+    <string name="Wo">Wo:</string>
+    <string name="Wer">Wer:</string>
+    <string name="Was">Was:</string>
+    <string name="Speichern">Speicherm</string>
+    <string name="Wann">Wann:</string>
+    <string name="loeschen">löschen?</string>
+    <string name="Ja">Ja</string>
+    <string name="Nein">Nein</string>
+    <string name="Bildgespeichert">Bild gespeichert</string>
+    <string name="Info">Info</string>
+    <string name="Beenden">Beenden</string>
+    <string name="Delete">Löschen</string>
+    
+</resources>

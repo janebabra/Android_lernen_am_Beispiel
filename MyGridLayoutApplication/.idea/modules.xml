@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyGridLayoutApplication.iml" filepath="$PROJECT_DIR$/MyGridLayoutApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridlayoutapp/gridlayoutapp.iml" filepath="$PROJECT_DIR$/gridlayoutapp/gridlayoutapp.iml" />
+    </modules>
+  </component>
+</project>
+

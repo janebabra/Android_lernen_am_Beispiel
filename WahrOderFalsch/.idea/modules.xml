@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WahrOderFalsch.iml" filepath="$PROJECT_DIR$/WahrOderFalsch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wahroderfalsch/wahroderfalsch.iml" filepath="$PROJECT_DIR$/wahroderfalsch/wahroderfalsch.iml" />
+    </modules>
+  </component>
+</project>
+

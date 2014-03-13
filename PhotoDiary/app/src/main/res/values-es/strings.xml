@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foto diario 2012</string>
+    <string name="newPhotoTextSize">15sp</string>
+    <string name="Titel">Título</string>
+    <string name="neuesFoto">tomar una fotografía</string>
+    <string name="Wo">¿Dónde?:</string>
+    <string name="Wer">¿Quién?:</string>
+    <string name="Was">¿Qué?t:</string>
+    <string name="Speichern">Ahorrar</string>
+    <string name="Wann">¿Cuándo?:</string>
+    <string name="loeschen">eliminar?</string>
+    <string name="Ja">Sí</string>
+    <string name="Nein">No</string>
+    <string name="Bildgespeichert">Foto se ha guardado</string>
+    <string name="Info">Info</string>
+    <string name="Beenden">Cerrar</string>
+    <string name="Delete">Eliminar</string>
+    
+</resources>

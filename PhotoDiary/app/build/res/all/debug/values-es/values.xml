@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values-es/strings.xml -->
+    <eat-comment />
+
+    <string name="Beenden">Cerrar</string>
+    <string name="Bildgespeichert">Foto se ha guardado</string>
+    <string name="Delete">Eliminar</string>
+    <string name="Info">Info</string>
+    <string name="Ja">Sí</string>
+    <string name="Nein">No</string>
+    <string name="Speichern">Ahorrar</string>
+    <string name="Titel">Título</string>
+    <string name="Wann">¿Cuándo?:</string>
+    <string name="Was">¿Qué?t:</string>
+    <string name="Wer">¿Quién?:</string>
+    <string name="Wo">¿Dónde?:</string>
+    <string name="app_name">Foto diario 2012</string>
+    <string name="loeschen">eliminar?</string>
+    <string name="neuesFoto">tomar una fotografía</string>
+    <string name="newPhotoTextSize">15sp</string>
+
+</resources>

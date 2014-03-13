@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    
+        <!--  labels for widgets -->
+    <string name="heightLabel">Height</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="EmptyString"></string>
+    <string name="weightLabel">Weight</string>
+    <string name="bmiLabel">Body Mass Index:</string>
+
+     <!--  the BMI descriptions -->
+    <string name="bmiNormal">Normal</string>
+    <string name="bmiOver">Overweight</string>
+    <string name="bmiUnder">Underweight</string>
+    <string name="bmiSUnder">Severely Underweight</string>
+    <string name="bmiObese">Obese</string>
+    <string name="being_healthy_quote">Being healthy is a lifestyle not a diet!</string>
+    <string name="infokurz">calculator example</string>
+
+
+    <!--  Strings arrays used in Spinner widgets -->
+    <string-array name="heightUnitsArray">
+        <item >feet/inch</item>
+        <item >m/cm</item>
+    </string-array>
+    <string-array name="weightUnitsArray">
+        <item >lb</item>
+        <item >kg</item>
+    </string-array>
+    
+    <!--  Colors used to used in the labels and the backgrounds -->
+    <color name="colorRed">#ff0000</color>
+    <color name="colorYellow">#00ffff</color>
+    <color name="colorGreen">#3661d9</color>
+    <color name="colorPurple">#d760a7</color>
+    <color name="colorBG">#bbeceb</color>
+    <color name="black">#000000</color>
+    
+    
+       
+</resources>

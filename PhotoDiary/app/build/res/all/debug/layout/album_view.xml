@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/newbutton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/ic_menu_camera"
+        android:text="@string/neuesFoto"
+        android:gravity="fill"
+        android:onClick="newPhoto"
+        ></Button>
+
+
+
+    <ListView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/main_listview">
+    </ListView>
+
+
+
+
+
+
+
+
+</LinearLayout><!-- From: file:/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/layout/album_view.xml -->

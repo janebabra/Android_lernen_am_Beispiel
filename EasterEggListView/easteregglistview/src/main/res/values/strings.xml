@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Easter Egg ListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quote_1">Android Cupcake</string>
+    <string name="quote_2">Android Donut</string>
+    <string name="quote_3">Android Eclair</string>
+    <string name="quote_4">Android Froyo</string>
+    <string name="quote_5">Android Gingerbread</string>
+    <string name="quote_6">Android Honeycomb</string>
+    <string name="quote_7">Android Ice Cream Sandwich</string>
+    <string name="quote_8">Android Jellybean</string>
+    <string name="quote_9">Android KitKat</string>
+    <string name="quote_10">Android Key Lime Pie</string>
+
+</resources>

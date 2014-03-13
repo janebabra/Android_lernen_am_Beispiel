@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DinoQuiz</string>
+    <string name="question_text_view">Welches Tier ist mit dem Dinosauier verwandt?</string>
+    <string name="true_button">Vogel</string>
+    <string name="false_button">Giraffe</string>
+    <string name="correct_toast">Das ist Richtig!</string>
+    <string name="incorrect_toast">Leider Falsch!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip">Tipp</string>
+
+</resources>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res" >
+            <file
+                name="bg"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable/bg.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fadetop"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable/fadetop.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable/ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable-hdpi/ic_action_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable-mdpi/ic_action_search.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="album_view"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/layout/album_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/layout/dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="photo_new_text"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/layout/photo_new_text.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="photomore"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/layout/photomore.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="row"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/layout/row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="delete"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/menu/delete.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="hauptmenue"
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/menu/hauptmenue.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="white" >#ffffff
+                </color>
+                <color name="black" >#000000
+                </color>
+            </file>
+            <file
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="Wer" >Who:
+                </string>
+                <string name="neuesFoto" >take a new picture
+                </string>
+                <string name="Delete" >Delete
+                </string>
+                <string name="newPhotoTextSize" >15sp
+                </string>
+                <string name="Was" >What: \n \n
+                </string>
+                <string name="Wann" >When:
+                </string>
+                <string name="Ja" >Yes
+                </string>
+                <string name="Speichern" >Save
+                </string>
+                <string name="Titel" >Title
+                </string>
+                <string name="Beenden" >Close
+                </string>
+                <string name="app_name" >Photo Diary
+                </string>
+                <string name="Wo" >Where:
+                </string>
+                <string name="Nein" >No
+                </string>
+                <string name="Info" >Info
+                </string>
+                <string name="Bildgespeichert" >Photo has been saved
+                </string>
+                <string name="loeschen" >delete?
+                </string>
+            </file>
+            <file
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Light" />
+            </file>
+            <file
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values-de/strings.xml"
+                qualifiers="de" >
+                <string name="Wann" >Wann:
+                </string>
+                <string name="Was" >Was:
+                </string>
+                <string name="Ja" >Ja
+                </string>
+                <string name="Wo" >Wo:
+                </string>
+                <string name="app_name" >Fototagebuch
+                </string>
+                <string name="Delete" >Löschen
+                </string>
+                <string name="loeschen" >löschen?
+                </string>
+                <string name="Beenden" >Beenden
+                </string>
+                <string name="neuesFoto" >neues Foto knipsen
+                </string>
+                <string name="Wer" >Wer:
+                </string>
+                <string name="Info" >Info
+                </string>
+                <string name="Nein" >Nein
+                </string>
+                <string name="Bildgespeichert" >Bild gespeichert
+                </string>
+                <string name="Speichern" >Speicherm
+                </string>
+                <string name="newPhotoTextSize" >15sp
+                </string>
+                <string name="Titel" >Titel
+                </string>
+            </file>
+            <file
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values-es/strings.xml"
+                qualifiers="es" >
+                <string name="Delete" >Eliminar
+                </string>
+                <string name="Ja" >Sí
+                </string>
+                <string name="Info" >Info
+                </string>
+                <string name="Was" >¿Qué?t:
+                </string>
+                <string name="Speichern" >Ahorrar
+                </string>
+                <string name="Beenden" >Cerrar
+                </string>
+                <string name="Wo" >¿Dónde?:
+                </string>
+                <string name="neuesFoto" >tomar una fotografía
+                </string>
+                <string name="app_name" >Foto diario 2012
+                </string>
+                <string name="loeschen" >eliminar?
+                </string>
+                <string name="Nein" >No
+                </string>
+                <string name="newPhotoTextSize" >15sp
+                </string>
+                <string name="Bildgespeichert" >Foto se ha guardado
+                </string>
+                <string name="Wer" >¿Quién?:
+                </string>
+                <string name="Wann" >¿Cuándo?:
+                </string>
+                <string name="Titel" >Título
+                </string>
+            </file>
+            <file
+                path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/main/res/values-sv/strings.xml"
+                qualifiers="sv" >
+                <string name="Speichern" >Spara
+                </string>
+                <string name="Nein" >Nej
+                </string>
+                <string name="loeschen" >radera?
+                </string>
+                <string name="Wer" >Vem:
+                </string>
+                <string name="Bildgespeichert" >Foto har sparats
+                </string>
+                <string name="newPhotoTextSize" >15sp
+                </string>
+                <string name="Delete" >Radera
+                </string>
+                <string name="Was" >Vad:
+                </string>
+                <string name="neuesFoto" >ta en ny bild
+                </string>
+                <string name="Wo" >Var:
+                </string>
+                <string name="Wann" >När:
+                </string>
+                <string name="Titel" >Rubrik
+                </string>
+                <string name="Ja" >Ja
+                </string>
+                <string name="Beenden" >Stäng
+                </string>
+                <string name="Info" >Info
+                </string>
+                <string name="app_name" >Fotodagbok 2012
+                </string>
+            </file>
+        </source>
+        <source path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/build/res/rs/debug" />
+        <source path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/mrmac/Documents/github/Source-Buch/Android_lernen_am_Beispiel/PhotoDiary/app/src/debug/res" />
+    </dataSet>
+
+</merger>

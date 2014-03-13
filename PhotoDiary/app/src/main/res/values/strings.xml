@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Diary</string>
+    <string name="newPhotoTextSize">15sp</string>
+    <string name="Titel">Title</string>
+    <string name="neuesFoto">take a new picture</string>
+    <string name="Wo">Where:</string>
+    <string name="Wer">Who:</string>
+    <string name="Was">What: \n \n</string>
+    <string name="Speichern">Save</string>
+    <string name="Wann">When:</string>
+    <string name="loeschen">delete?</string>
+    <string name="Ja">Yes</string>
+    <string name="Nein">No</string>
+    <string name="Bildgespeichert">Photo has been saved</string>
+    <string name="Info">Info</string>
+    <string name="Beenden">Close</string>
+    <string name="Delete">Delete</string>
+    
+</resources>

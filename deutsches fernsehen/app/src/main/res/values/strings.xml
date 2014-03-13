@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"My Master Detail Application "</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <!--Strings Rezept-Liste und Titel-->
+    <string name="recipe1">Kartoffelpuffer mit Apfelmuss</string>
+    <string name="recipe2">Wirsing Reibekuchen</string>
+    <string name="recipe3">Zucchini Reibekuchen</string>
+    <string name="recipe4">Zucchinipuffer mit Senfdip</string>
+    <string name="recipe5">Zucchinipuffer mit Senfdip</string>
+    <string name="recipe6">Kartoffelpuffer Waffeln</string>
+
+
+    <!--Strings Rezept Inhalt-->
+    <string name="recipe1_content">
+        Zutaten:\n
+        500 g säuerliche Äpfel \n
+        2 EL Zucker \n
+        5 EL Apfelsaft \n
+        1 Zimtstange \n
+        1 kg mehlige Kartoffeln \n
+        1 Zwiebel \n
+        1 grosses Ei \n
+        1–2 EL Mehl \n
+        Salz und Pfeffer \n
+        5 EL Butterschmalz \n\n
+
+        Zubereitung:\n
+        Für das Kompott Äpfel schälen, vierteln, entkernen und klein schneiden.
+        Zucker in einem Topf bei mittlerer Hitze goldbraun karamellisieren.
+        \n\n
+        Mit Apfelsaft ablöschen und kurz aufkochen. Äpfel und Zimtstange zufügen und ca. 10 Minuten köcheln,
+        dabei mehrmals umrühren. Apfelstückchen mit einem Kartoffelstampfer grob zer­musen.
+        Abkühlen lassen.
+        \n\n
+2	 Für die Puffer Kartoffeln schälen, waschen und fein raspeln. Zwiebel schälen und fein dazureiben. Ei und so viel Mehl zufügen, dass der Kartoffel­teig nicht allzu flüssig ist. Mit Salz und Pfeffer abschmecken.
+3	 Butterschmalz portionsweise in einer Pfanne erhitzen. Nacheinander ca. 16 Puffer backen. Dafür je 2–3 EL Kartoffelmasse pro Puffer in die Pfanne geben (insgesamt 3–4 Puffer pro Pfanne) und von jeder Seite 3–4 Minuten goldbraun braten. Fertige Kartoffelpuffer im Ofen (bei 50°C) warm stellen. Die Kartoffelpuffer mit dem Apfelkompott anrichten.
+    </string>
+
+
+    <string name="recipe2_content">
+        http://www.chefkoch.de/rezepte/1464391251384951/Wirsing-Roesti.html
+    </string>
+
+    <string name="recipe3_content">
+       http://www.chefkoch.de/rezepte/705691173184272/Zucchini-Reibekuchen.html
+    </string>
+
+    <string name="recipe4_content">
+       http://www.chefkoch.de/rezepte/1851941300181540/Feine-Zucchini-Kartoffelpuffer-mit-Nuessen-und-Senf-Dip.html
+    </string>
+
+    <string name="recipe5_content">
+       http://www.brigitte.de/rezepte/rezepte/kartoffelpuffer_mit_pilzen_und_quark
+    </string>
+
+    <string name="recipe6_content">
+       http://www.brigitte.de/rezepte/rezepte/kartoffelpuffer-waffeln-mit-apfelkompott
+    </string>
+
+
+</resources>
